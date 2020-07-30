@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Faster Delivery</string>
+    <string name="title_add">Add</string>
+    <string name="title_list">List</string>
+    <string name="title_map">Map</string>
+
+    <string name="title_activity_maps">Map</string>
+</resources>
